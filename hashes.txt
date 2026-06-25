@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Romance Éternelle
+
+This log tracks the cryptographic history and versioning for the song **Une Romance Éternelle** (une-romance-eternelle).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:28:41.990477 | `v1` | `8dff78049e1e2679717749f3056a21d6fe6b977e22a8de25db54ca77c7ef8603` | `70982999c2f4d43f6186a4d35a86f42ea44d22869498c6e2a73983ca80b5692b` | `2026-06-26_une-romance-eternelle-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

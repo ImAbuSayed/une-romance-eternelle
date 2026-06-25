@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-romance-eternelle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Une Romance Éternelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-romance-eternelle/) |
+| **Get License** | [Obtain a Music License for Une Romance Éternelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-romance-eternelle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8dff78049e1e2679717749f3056a21d6fe6b977e22a8de25db54ca77c7ef8603` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
