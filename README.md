@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-romance-eternelle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Une Romance Éternelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-romance-eternelle/) |
+| **Get License** | [Secure Licensing Rights for Une Romance Éternelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-romance-eternelle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la douceur de la nuit, je perds la notion du temps
+> Tes yeux brillent sous les phares, baby, tu es mon aimant
+> Viens un un peu plus près, girl, laisse parler l'attraction
+> C'est toi et moi ce soir, la parfaite connexion
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
